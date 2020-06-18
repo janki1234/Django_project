@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+	<ul>
+		<li>Posted on {{blog.date}}</li>
+		<li>{{blog.id}}. {{blog.data}}</li>
+	</ul>
+	<a href="/" class="btn btn-primary">Go to home</a>
+
+{% endblock content %}
