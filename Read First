@@ -1,0 +1,18 @@
+Hello Developer,
+
+  you have to first create virtual enviroment in particular folder using following command in windows.
+  python3 -m venv venv
+  
+  Activate it
+  venv/Scripts/activate
+  
+  Install django in same directory
+  pip install django
+  
+  
+  now you are ready to use django's features
+  
+  first create project and then create app.
+  
+  Thank you :)
+  
